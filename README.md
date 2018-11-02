@@ -4,3 +4,4 @@ This is my SUSI bot. Test the
   SUMTHING
 </a>
 now itself.
+<h1><color="yellow">THANKS for visiting my Github page.</color></h1>
