@@ -4,9 +4,19 @@ This is my SUSI bot. Test the
   SUMTHING
 </a>
 now itself.
-<footer>
+<table>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+  <tr></tr>
+</table>
 <center>
   <h5>THANKS for visiting my Github page.</h5>
   <h6>I hope it would be updated much.</h6>
 </center>
-</footer>
