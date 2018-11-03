@@ -18,6 +18,9 @@ now itself.
   <tr></tr>
   <tr></tr>
 </table>
+  <p>
+    To interact with my bot, click the S symbol at the corner on the right side.
+  </p>
 <center>
   <h5>THANKS for visiting my Github page.</h5>
   <h6>I hope it would be updated much.</h6>
