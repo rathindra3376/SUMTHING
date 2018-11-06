@@ -1,22 +1,6 @@
 <title>SUMTHING</title>
 <body>
-This is my SUSI bot. Test the
-<a href="https://skills.susi.ai/botbuilder/botwizard?name=Sumthing&amp;language=en&amp;group=Social">
-  SUMTHING
-</a>
-now itself.
-<table>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-  <tr></tr>
-</table>
+This is my SUSI bot. Test the SUMTHING now itself.
   <p>
     To interact with my bot, click the S symbol at the corner on the right side.
   </p>
