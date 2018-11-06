@@ -1,4 +1,5 @@
-<title>SUMTHING</title>
+<html>
+<head>SUMTHING</head>
 <body>
 This is my SUSI bot. Test the SUMTHING now itself.
   <p>
@@ -9,4 +10,5 @@ This is my SUSI bot. Test the SUMTHING now itself.
   <h6>I hope it would be updated much.</h6>
 </center>
 <script type="text/javascript" id="susi-bot-script" data-userid="1204bb7ded2af750cc97a119d9175867" data-group="Social" data-language="en" data-skill="Sumthing" src="https://skills.susi.ai/susi-chatbot.js" ></script>
-  </body>
+</body>
+</html>
