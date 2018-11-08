@@ -3,11 +3,6 @@
 <title>SUMTHING</title>
 </head>
 <body onload="alert('hello')">
-<p>
-<style color="red">
-This is my SUSI bot. Test the SUMTHING now itself.
-</style>
-</p>
   <p>
     To interact with my bot, click the S symbol at the corner on the right side.
   </p>
