@@ -10,7 +10,7 @@
   <h5>THANKS for visiting my Github page.</h5>
   <h6>I hope it would be updated much.</h6>
 </center>
-<script type="text/javascript" id="susi-bot-script" data-userid="1204bb7ded2af750cc97a119d9175867" data-group="Social" data-language="en" data-skill="Sumthing" src="https://skills.susi.ai/susi-chatbot.js" >
-</script>
+<script type='text/javascript' id='susi-bot-script' data-userid='de3423f2d6bfb8565ab7fa2d7fb3a999' data-group='Social' data-language='en' data-skill='Jatopam' src='https://susi.ai/susi-chatbot.js'>
+  </script>
 </body>
 </html>
